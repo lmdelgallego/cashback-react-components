@@ -22,9 +22,7 @@ export const Default = (args) => {
       onSubmit={() => {}}
     >
       <Form>
-        {/* INIT COMPONENT */}
         <TextInput name='input' {...args} />
-        {/* END COMPONENT */}
       </Form>
     </Formik>
   );
