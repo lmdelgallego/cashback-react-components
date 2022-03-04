@@ -1,0 +1,1 @@
+export const cashbackComponents = () => (<>Cashback Components</>);
