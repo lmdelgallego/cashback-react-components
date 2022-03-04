@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/lmdelgallego/cashback-react-components"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
